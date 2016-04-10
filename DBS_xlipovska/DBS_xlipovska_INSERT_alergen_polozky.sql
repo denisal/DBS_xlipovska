@@ -1,0 +1,19 @@
+INSERT INTO alergen_polozky (polozka_id,alergen_id) VALUES (10,2);
+INSERT INTO alergen_polozky (polozka_id,alergen_id) VALUES (10,8);
+INSERT INTO alergen_polozky (polozka_id,alergen_id) VALUES (11,4);
+INSERT INTO alergen_polozky (polozka_id,alergen_id) VALUES (11,6);
+INSERT INTO alergen_polozky (polozka_id,alergen_id) VALUES (12,1);
+INSERT INTO alergen_polozky (polozka_id,alergen_id) VALUES (12,2);
+INSERT INTO alergen_polozky (polozka_id,alergen_id) VALUES (12,3);
+INSERT INTO alergen_polozky (polozka_id,alergen_id) VALUES (12,6);
+INSERT INTO alergen_polozky (polozka_id,alergen_id) VALUES (12,11);
+INSERT INTO alergen_polozky (polozka_id,alergen_id) VALUES (12,12);
+INSERT INTO alergen_polozky (polozka_id,alergen_id) VALUES (13,4);
+INSERT INTO alergen_polozky (polozka_id,alergen_id) VALUES (14,4);
+INSERT INTO alergen_polozky (polozka_id,alergen_id) VALUES (15,6);
+INSERT INTO alergen_polozky (polozka_id,alergen_id) VALUES (15,7);
+INSERT INTO alergen_polozky (polozka_id,alergen_id) VALUES (16,1);
+INSERT INTO alergen_polozky (polozka_id,alergen_id) VALUES (16,6);
+INSERT INTO alergen_polozky (polozka_id,alergen_id) VALUES (17,1);
+INSERT INTO alergen_polozky (polozka_id,alergen_id) VALUES (17,6);
+

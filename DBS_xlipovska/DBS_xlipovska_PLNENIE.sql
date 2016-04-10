@@ -1,0 +1,2 @@
+COPY alergen (nazov,popis) FROM 'C:/Users/Denisa/Desktop/DBS/alergeny.csv' DELIMITER ';' CSV;
+COPY polozka (nazov,popis,cena,typ_polozky_id) FROM 'C:/Users/Denisa/Desktop/DBS/polozky.csv' DELIMITER ';' CSV;
